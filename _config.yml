@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile1.jpg"
   name             : "Sundew"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Hi, This is SundewAI. Welcome to my website to check our new AI work and research."
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Kansas, Missouri"
+  employer         : "Student"
+  uri              : "SundewAI.github.io" #hi guys today were gonna be watching sundew videos and like....
+  email            : "William.vwva.li@gmail.com" 
 
   # Academic websites
   academia         : # URL
